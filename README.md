@@ -21,7 +21,7 @@ Installation
 To get a local copy up and running, follow these simple steps.
 
 Clone the repository
-git clone https://github.com/your-username/digital-clock.git
+git clone https://github.com/error-program-404/Digital-Clock.git
 Navigate to the project directory
 cd digital-clock
 
